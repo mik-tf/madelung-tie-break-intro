@@ -1,0 +1,29 @@
+{
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "Who goes first when two levels tie? Introductory text to A first-order Madelung tie-break on the round four-sphere: Kelvin parity, convex order and the Thomas-Fermi field",
+  "creators": [
+    {
+      "name": "Perreault, Michaël",
+      "orcid": "0009-0003-0017-7658",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "description": "<p>A plain-language introduction to a research paper on a first-order tie-break for the Madelung filling order on the round four-sphere. The paper has the proofs; this note has the idea, and it says what the paper does and does not claim.</p>",
+  "keywords": [
+    "Madelung rule",
+    "tie-break",
+    "Thomas-Fermi",
+    "four-sphere"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24533673",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}
