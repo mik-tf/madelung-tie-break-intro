@@ -102,6 +102,10 @@ The novelty claims are all of the form "to our knowledge, in the sources we coul
 \par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
 ```
 
+# Use of AI {-}
+
+Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
+
 # Read the research paper {-}
 
 ```{=latex}
