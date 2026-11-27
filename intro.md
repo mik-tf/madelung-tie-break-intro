@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "Who goes first when two levels tie?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24577130](https://doi.org/10.5281/zenodo.24577130)
+
 This is an introductory text to the research paper *A first-order Madelung tie-break on the round four-sphere: Kelvin parity, convex order and the Thomas-Fermi field* [Per26], by the same author. The paper has the proofs and the full computations. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and it says which claims are proved and which are only computed.
 
 One caution comes first, because the paper itself puts it first. This is about a **model**. It shows why a neat piece of mathematics in a well-known model of the periodic table puts two levels in a certain order. It does not derive real atoms.
