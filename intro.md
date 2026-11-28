@@ -86,24 +86,6 @@ The novelty claims are all of the form "to our knowledge, in the sources we coul
 - The earlier paper that shows the model is the four-sphere [Per26a].
 - The original model [DO71, DO72] and the idea of a transition between two limits [GR].
 
-# References {-}
-
-[BFHS25] A. Bjerg, S. Fournais, P. Hearnshaw and J. P. Solovej, *The angular momentum distribution of electrons in large atoms and its deviation from Madelung's rule*, 2025, [arXiv:2506.14227](https://arxiv.org/abs/2506.14227).
-
-[DO71] Yu. N. Demkov and V. N. Ostrovsky, *Internal symmetry of the Maxwell "fish-eye" problem and the Fock group for the hydrogen atom*, Sov. Phys. JETP 33 (1971) 1083-1087.
-
-[DO72] Yu. N. Demkov and V. N. Ostrovsky, *n+l filling rule in the periodic system and focusing potentials*, Sov. Phys. JETP 35 (1972) 66-69.
-
-[GR] S. A. Goudsmit and P. I. Richards, *The order of electron shells in ionized atoms*, Proc. Natl. Acad. Sci. USA 51 (1964) 664-671, [doi:10.1073/pnas.51.4.664](https://doi.org/10.1073/pnas.51.4.664).
-
-[Per26] M. Perreault, *A first-order Madelung tie-break on the round four-sphere: Kelvin parity, convex order and the Thomas-Fermi field*, 2026, Zenodo. [doi:10.5281/zenodo.24533673](https://doi.org/10.5281/zenodo.24533673).
-
-[Per26a] M. Perreault, *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere*, 2026, Zenodo. [doi:10.5281/zenodo.24522163](https://doi.org/10.5281/zenodo.24522163).
-
-```{=latex}
-\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
-```
-
 # Use of AI {-}
 
 Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
@@ -117,3 +99,21 @@ Claude (Anthropic) was used in November 2026, under the author's direction, for 
 The full paper, with the proofs, is *A first-order Madelung tie-break on the round four-sphere: Kelvin parity, convex order and the Thomas-Fermi field*, by Michaël Perreault.
 
 DOI: [doi:10.5281/zenodo.24533673](https://doi.org/10.5281/zenodo.24533673)
+
+```{=latex}
+\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
+```
+
+# References {-}
+
+[BFHS25] A. Bjerg, S. Fournais, P. Hearnshaw and J. P. Solovej, *The angular momentum distribution of electrons in large atoms and its deviation from Madelung's rule*, 2025, [arXiv:2506.14227](https://arxiv.org/abs/2506.14227).
+
+[DO71] Yu. N. Demkov and V. N. Ostrovsky, *Internal symmetry of the Maxwell "fish-eye" problem and the Fock group for the hydrogen atom*, Sov. Phys. JETP 33 (1971) 1083-1087.
+
+[DO72] Yu. N. Demkov and V. N. Ostrovsky, *n+l filling rule in the periodic system and focusing potentials*, Sov. Phys. JETP 35 (1972) 66-69.
+
+[GR] S. A. Goudsmit and P. I. Richards, *The order of electron shells in ionized atoms*, Proc. Natl. Acad. Sci. USA 51 (1964) 664-671, [doi:10.1073/pnas.51.4.664](https://doi.org/10.1073/pnas.51.4.664).
+
+[Per26] M. Perreault, *A first-order Madelung tie-break on the round four-sphere: Kelvin parity, convex order and the Thomas-Fermi field*, 2026, Zenodo. [doi:10.5281/zenodo.24533673](https://doi.org/10.5281/zenodo.24533673).
+
+[Per26a] M. Perreault, *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere*, 2026, Zenodo. [doi:10.5281/zenodo.24522163](https://doi.org/10.5281/zenodo.24522163).
